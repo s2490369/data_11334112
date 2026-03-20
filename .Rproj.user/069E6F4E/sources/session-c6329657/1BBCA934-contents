@@ -1,0 +1,2 @@
+dataset<-read.csv(cleaned_data.csv)
+dataset
